@@ -7,6 +7,6 @@ public class Bmw extends Car {
     }
 
     public  void maxSpeedBmw ( ) {
-        System.out.println(" Bmw 200 km ");
+        System.out.println(" Bmw 250 km ");
     }
 }
