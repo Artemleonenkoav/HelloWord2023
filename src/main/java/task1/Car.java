@@ -10,6 +10,15 @@ public class Car {
         this.model = model;
     }
 
+    @Override
+    public boolean equals(Object obj) {
+        Car otherCar = (Car) obj;
+        return this.model == otherCar.model;
+    }
+
+    public String toString(){
+        return name + "," + model;
+    }
 
     public void speed () {
         System.out.println(" Car Speeed ");
@@ -30,4 +39,5 @@ public class Car {
     public void setModel(String model) {
         this.model = model;
     }
+
 }

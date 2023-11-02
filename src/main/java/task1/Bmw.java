@@ -6,6 +6,7 @@ public class Bmw extends Car {
         super(name, model);
     }
 
+
     public  void maxSpeedBmw ( ) {
         System.out.println(" Bmw 250 km ");
     }
