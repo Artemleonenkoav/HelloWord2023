@@ -1,6 +1,6 @@
 package task1;
 
-public class Audi extends  Car{
+public class Audi extends Bmw{
 
     public Audi(String name, String model) {
         super(name, model);

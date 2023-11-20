@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2524935-ec58-4e8c-9b7c-eb0c05c3e190" name="Changes" comment="Add class - Product">
-      <change afterPath="$PROJECT_DIR$/src/test/java/task1/Main.java" afterDir="false" />
+    <list default="true" id="c2524935-ec58-4e8c-9b7c-eb0c05c3e190" name="Changes" comment="Add Test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task1/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task1/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task1/Audi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task1/Audi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task1/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task1/Car.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +177,7 @@
       <workItem from="1699288644623" duration="3890000" />
       <workItem from="1699298450404" duration="202000" />
       <workItem from="1699464195311" duration="4697000" />
-      <workItem from="1700500879043" duration="5784000" />
+      <workItem from="1700500879043" duration="6762000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -261,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699478672014</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add Test">
+      <option name="closed" value="true" />
+      <created>1700507709437</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1700507709437</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,6 +289,7 @@
     <MESSAGE value="init project" />
     <MESSAGE value="Add - method - get - set - toString(),equals()&#10;- Constructor &#10;- 3 class" />
     <MESSAGE value="Add class - Product" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add class - Product" />
+    <MESSAGE value="Add Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Test" />
   </component>
 </project>

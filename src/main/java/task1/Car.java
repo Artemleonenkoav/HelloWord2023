@@ -13,7 +13,7 @@ public class Car {
     @Override
     public boolean equals(Object obj) {
         Car otherCar = (Car) obj;
-        return this.model == otherCar.model;
+        return this.model.equals(otherCar.model);
     }
 
     public String toString(){
