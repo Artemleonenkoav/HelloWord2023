@@ -9,10 +9,9 @@ public class Main {
         Car car1 = new Car("Fiat","500X");
 
         System.out.println(car);
-        System.out.println(car1);
-        System.out.println(bmw1);
-
-        System.out.println(car.equals(car1));
+//        System.out.println(car1);
+//        System.out.println(bmw1);
+//        System.out.println(car.equals(car1));
 
     }
 }
